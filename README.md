@@ -1,5 +1,6 @@
 <h1 align="center">
-  <center>Nestjs e Mongodb : API REST
+  <center>Nextjs, Typescript, Material Ui
+
 </center>
 </h1>
 
